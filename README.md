@@ -24,15 +24,15 @@ To set up the puzzle:
 To solve the puzzle, press ENTER at any time.
 
 Enter a cell to modify (0-15): 5
-Enter a value (0-4): 4
+Enter a value (0-4): 3
 
 Updated Puzzle:
 +-----+-----+
-| 0 0 | 0 0 | 
-| 0 4 | 0 0 | 
+| - - | - - | 
+| - 3 | - - | 
 +-----+-----+
-| 0 0 | 0 0 | 
-| 0 0 | 0 0 | 
+| - - | - - | 
+| - - | - - | 
 +-----+-----+
 
 Key:
@@ -44,16 +44,16 @@ Key:
 | 12 13 | 14 15 | 
 +-------+-------+
 
-Enter a cell to modify (0-15): 8
-Enter a value (0-4): 4
+Enter a cell to modify (0-15): 12
+Enter a value (0-4): 3
 
 Updated Puzzle:
 +-----+-----+
-| 0 0 | 0 0 | 
-| 0 4 | 0 0 | 
+| - - | - - | 
+| - 3 | - - | 
 +-----+-----+
-| 4 0 | 0 0 | 
-| 0 0 | 0 0 | 
+| - - | - - | 
+| 3 - | - - | 
 +-----+-----+
 
 Key:
@@ -70,11 +70,11 @@ Enter a value (0-4): 1
 
 Updated Puzzle:
 +-----+-----+
-| 0 0 | 0 0 | 
-| 0 4 | 0 0 | 
+| - - | - - | 
+| - 3 | - - | 
 +-----+-----+
-| 4 0 | 0 0 | 
-| 0 0 | 0 1 | 
+| - - | - - | 
+| 3 - | - 1 | 
 +-----+-----+
 
 Key:
@@ -91,9 +91,9 @@ Enter a cell to modify (0-15):
 The puzzle has been solved! Here is a solution:
 +-----+-----+
 | 1 2 | 3 4 | 
-| 3 4 | 1 2 | 
+| 4 3 | 1 2 | 
 +-----+-----+
-| 4 1 | 2 3 | 
-| 2 3 | 4 1 | 
+| 2 1 | 4 3 | 
+| 3 4 | 2 1 | 
 +-----+-----+
 ```
