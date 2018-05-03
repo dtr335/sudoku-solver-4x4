@@ -1,9 +1,7 @@
 # sudoku-solver-4x4
 
+### See new repository [here](https://github.com/dtr335/sudoku-solver) that includes both 4x4 and 9x9 solving.
 ***
-## See new repository [here](https://github.com/dtr335/sudoku-solver) that includes both 4x4 and 9x9 solving.
-***
-
 A console-based java program to solve a 4x4 sudoku puzzle using a simple brute force method.
 
 Download the runnable jar file [here](https://github.com/dtr335/sudoku-solver-4x4/raw/master/jar/sudoku-solver-4x4.jar).
